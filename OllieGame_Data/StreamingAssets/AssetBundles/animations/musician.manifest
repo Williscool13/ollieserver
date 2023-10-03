@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4283335610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07e27d70ee36f94cdfeaad72e4c72b48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2594a11eb59fead7d614b0d8a91cc74b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Gameplay/Animations/Musician/ATK_MusicianAttack.anim
+- Assets/Scenes/Gameplay/Animations/Musician/IDL_MusicianIdle.anim
+- Assets/Scenes/Gameplay/Animations/Musician/MOV_MusicianMove.anim
+Dependencies: []

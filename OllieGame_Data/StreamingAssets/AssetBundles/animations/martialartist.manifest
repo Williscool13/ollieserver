@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3804624935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21a2b29a70f2d83df40abecc9edbed30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2594a11eb59fead7d614b0d8a91cc74b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Gameplay/Animations/MartialArtist/IDL_MartialArtist.anim
+- Assets/Scenes/Gameplay/Animations/MartialArtist/MOV_MartialArtist.anim
+- Assets/Scenes/Gameplay/Animations/MartialArtist/ATK_MartialArtist.anim
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 182385790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc92ecf84c7026b53c593249f79736b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9fc36b1082e323a085d3c5cba6189e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2e2777e7402b9b47830a8bad23ee7d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Gameplay/Prefabs/Actions/Spotlight.prefab
+Dependencies: []

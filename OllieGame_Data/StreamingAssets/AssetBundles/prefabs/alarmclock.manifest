@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1771978248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d0c8350c7573c6d81fa4f7bdce94b69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d4da3583b8dd0b1afb6a572fb0775a8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8bd5c2374ee1584b86f880bb8b405ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Gameplay/Prefabs/Actions/Alarm Clock.prefab
+Dependencies: []

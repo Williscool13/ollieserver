@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1804110840
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animations/martialartist
+      Dependencies: {}
+    Info_1:
+      Name: animations/musician
+      Dependencies: {}
+    Info_2:
+      Name: animations/magician
+      Dependencies: {}
+    Info_3:
+      Name: animations/dancer
+      Dependencies: {}
+    Info_4:
+      Name: projectiles/musicianbasic
+      Dependencies: {}
+    Info_5:
+      Name: prefabs/spotlight
+      Dependencies: {}
+    Info_6:
+      Name: prefabs/coffee
+      Dependencies: {}
+    Info_7:
+      Name: prefabs/dimsum
+      Dependencies: {}
+    Info_8:
+      Name: prefabs/durian
+      Dependencies: {}
+    Info_9:
+      Name: prefabs/alarmclock
+      Dependencies: {}

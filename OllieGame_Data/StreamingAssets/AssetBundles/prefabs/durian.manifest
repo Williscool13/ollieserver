@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1905506230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd69be6654d9d735e8fbb0346f1653e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 654c90b0e434dc5c766abc3435af1a7d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24e0877a8ade0384db5481f8f27ffe38, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Gameplay/Prefabs/Actions/Durian.prefab
+Dependencies: []

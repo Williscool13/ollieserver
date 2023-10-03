@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 603733661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98b7b62ce1646468f58e93ffe1555c1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91b7b4465f608628b559159b232cd650
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bedd70c9e631b09428e671de1e662594, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Gameplay/Prefabs/Actions/Coffee.prefab
+Dependencies: []
