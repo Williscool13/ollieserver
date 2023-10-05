@@ -1,0 +1,1414 @@
+Mono path[0] = 'C:/Users/twtw4/OneDrive/Desktop/All Ollie Builds/OllieBuild38/OllieGame_Data/Managed'
+Mono config path = 'C:/Users/twtw4/OneDrive/Desktop/All Ollie Builds/OllieBuild38/MonoBleedingEdge/etc'
+Found 1 interfaces on host : 0) 192.168.100.33
+Multi-casting "[IP] 192.168.100.33 [Port] 55330 [Flags] 2 [Guid] 1144586023 [EditorId] 1092404947 [Version] 1048832 [Id] WindowsServer(44,MSI) [Debug] 0 [PackageName] WindowsServer [ProjectName] OllieGame" to [225.0.0.222:54997]...
+Initialize engine version: 2022.1.20f1 (01d83b40d570)
+[Subsystems] Discovering subsystems at path C:/Users/twtw4/OneDrive/Desktop/All Ollie Builds/OllieBuild38/OllieGame_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.115 seconds
+ERROR: Shader Hidden/Universal Render Pipeline/Debug/DebugReplacement shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Blit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CopyDepth shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Sampling shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/StencilDeferred' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/StencilDeferred' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/kMotion/CameraMotionVectors shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/kMotion/ObjectMotionVectors shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/ScreenSpaceAmbientOcclusion shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderLdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderHdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/UberPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Stop NaN shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/GaussianDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/BokehDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Bloom shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LensFlareDataDriven shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/FinalPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Skybox/Gradient Skybox shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Shader Graphs/SolidColor' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Shader Graphs/SolidColor shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Shader Graphs/SolidColor' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Shader Graphs/ToonShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Shader Graphs/ToonShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Shader Graphs/ToonShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Shader Graphs/GridCellShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Shader Graphs/GridCellShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Shader Graphs/GridCellShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader TextMeshPro/Mobile/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Shader Graphs/CharacterDisplayShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Shader Graphs/CharacterDisplayShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Shader Graphs/CharacterDisplayShader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Unlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Lit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+There is no texture data available to upload.
+UnloadTime: 2.381200 ms
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+[FusionDedicatedServerConfig]: SessionName=, Region=, Lobby=, Port=27015, PublicIP=, PublicPort=0, SessionProperties=]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionServerController/<StartSession>d__3:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Networking/FusionServerController.cs:35)
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start<FusionServerController/<StartSession>d__3> (FusionServerController/<StartSession>d__3&)
+FusionServerController:StartSession ()
+FusionServerController:Start () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Networking/FusionServerController.cs:21)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Networking/FusionServerController.cs Line: 35)
+
+The referenced script on this Behaviour (Game Object 'MusicianProjectile') is missing!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.ResourcesAPI:Load (string,System.Type) (at C:/buildslave/unity/build/Runtime/Export/Resources/Resources.bindings.cs:71)
+UnityEngine.Resources:Load (string,System.Type) (at C:/buildslave/unity/build/Runtime/Export/Resources/Resources.bindings.cs:122)
+UnityEngine.Resources:Load<Fusion.NetworkProjectConfigAsset> (string) (at C:/buildslave/unity/build/Runtime/Export/Resources/Resources.bindings.cs:117)
+Fusion.NetworkProjectConfig/Static/<>c:<Reload>b__6_0 () (at Fusion/Fusion.Runtime/Runner/NetworkProjectConfig.cs:523)
+System.Lazy`1<Fusion.NetworkProjectConfigAsset>:ViaFactory (System.Threading.LazyThreadSafetyMode)
+System.Lazy`1<Fusion.NetworkProjectConfigAsset>:CreateValue ()
+System.Lazy`1<Fusion.NetworkProjectConfigAsset>:get_Value ()
+Fusion.NetworkProjectConfig:get_Global () (at Fusion/Fusion.Runtime/Runner/NetworkProjectConfig.cs:151)
+Fusion.NetworkRunner:StartGame (Fusion.StartGameArgs) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Matchmaking.cs:628)
+FusionServerController:StartSimulation (Fusion.NetworkRunner,string,System.Collections.Generic.Dictionary`2<string, Fusion.SessionProperty>,uint16,string,string,string,uint16) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Networking/FusionServerController.cs:93)
+FusionServerController/<StartSession>d__3:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Networking/FusionServerController.cs:38)
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start<FusionServerController/<StartSession>d__3> (FusionServerController/<StartSession>d__3&)
+FusionServerController:StartSession ()
+FusionServerController:Start () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Networking/FusionServerController.cs:21)
+
+[Fusion/Fusion.Runtime/Runner/NetworkProjectConfig.cs line 523]
+
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Standard shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Particles/Standard Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Particles/Standard Unlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Particles/Standard Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader TextMeshPro/Sprite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Signed in k5NPRSMctxLlcidv9C1h0g5sALET
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LobbyRepository/<>c:<Start>b__17_0 () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Data/LobbyRepository.cs:46)
+Unity.Services.Authentication.AuthenticationServiceInternal:HandleStateChanged (Unity.Services.Authentication.AuthenticationState,Unity.Services.Authentication.AuthenticationState) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/AuthenticationServiceInternal.cs:673)
+Unity.Services.Authentication.AuthenticationServiceInternal:ChangeState (Unity.Services.Authentication.AuthenticationState) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/AuthenticationServiceInternal.cs:662)
+Unity.Services.Authentication.AuthenticationServiceInternal:CompleteSignIn (Unity.Services.Authentication.SignInResponse,bool) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/AuthenticationServiceInternal.cs:569)
+Unity.Services.Authentication.AuthenticationServiceInternal/<HandleSignInRequestAsync>d__105:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/AuthenticationServiceInternal.cs:490)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.AwaitTaskContinuation:InvokeAction (object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback (System.Threading.ContextCallback,object,System.Threading.Tasks.Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run (System.Threading.Tasks.Task,bool)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>:TrySetResult (System.Threading.Tasks.VoidTaskResult)
+System.Threading.Tasks.Task/WhenAllPromise:Invoke (System.Threading.Tasks.Task)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<Unity.Services.Authentication.SignInResponse>:TrySetResult (Unity.Services.Authentication.SignInResponse)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Unity.Services.Authentication.SignInResponse>:SetResult (Unity.Services.Authentication.SignInResponse)
+Unity.Services.Authentication.WebRequest/<SendAsync>d__15`1<Unity.Services.Authentication.SignInResponse>:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/Network/WebRequest.cs:66)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.AwaitTaskContinuation:InvokeAction (object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback (System.Threading.ContextCallback,object,System.Threading.Tasks.Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run (System.Threading.Tasks.Task,bool)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<string>:TrySetResult (string)
+System.Threading.Tasks.TaskCompletionSource`1<string>:TrySetResult (string)
+System.Threading.Tasks.TaskCompletionSource`1<string>:SetResult (string)
+Unity.Services.Authentication.WebRequest:RequestCompleted (System.Threading.Tasks.TaskCompletionSource`1<string>,long,bool,bool,string,string,System.Collections.Generic.IDictionary`2<string, string>) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/Network/WebRequest.cs:198)
+Unity.Services.Authentication.WebRequest/<>c__DisplayClass16_1:<SendAttemptAsync>b__0 (UnityEngine.AsyncOperation) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/Network/WebRequest.cs:76)
+UnityEngine.AsyncOperation:InvokeCompletionEvent () (at C:/buildslave/unity/build/Runtime/Export/Scripting/AsyncOperation.cs:21)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Data/LobbyRepository.cs Line: 46)
+
+<color=#144078>[Fusion]</color> OnSceneLoadStart: CurrentScene: [Scene:6]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnSceneLoadStart (Fusion.NetworkRunner) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:79)
+Fusion.NetworkRunner:InvokeSceneLoadStart () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Scenes.cs:109)
+Fusion.NetworkSceneManagerBase/<SwitchSceneWrapper>d__28:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:237)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator) (at C:/buildslave/unity/build/Runtime/Export/Scripting/MonoBehaviour.bindings.cs:91)
+Fusion.NetworkSceneManagerBase:LateUpdate () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:79)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+There is no texture data available to upload.
+UnloadTime: 7.073200 ms
+Unloading 17 unused Assets / (4.3 KB). Loaded Objects now: 2929.
+Memory consumption went from 51.8 MB to 51.8 MB.
+Total: 18.912000 ms (FindLiveObjects: 0.115700 ms CreateObjectMapping: 0.085900 ms MarkObjects: 18.388400 ms  DeleteObjects: 0.321600 ms)
+
+<color=#144078>[Fusion]</color> OnSceneLoadDone: CurrentScene: [Scene:6]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnSceneLoadDone (Fusion.NetworkRunner) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:75)
+Fusion.NetworkRunner:InvokeSceneLoadDone () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Scenes.cs:124)
+Fusion.NetworkSceneManagerBase/<SwitchSceneWrapper>d__28:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:266)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+<color=#144078>[Fusion]</color> Runner Start DONE
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+FusionServerController/<StartSession>d__3:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Lobby/Scripts/Networking/FusionServerController.cs:50)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.AwaitTaskContinuation:InvokeAction (object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback (System.Threading.ContextCallback,object,System.Threading.Tasks.Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run (System.Threading.Tasks.Task,bool)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<Fusion.StartGameResult>:TrySetResult (Fusion.StartGameResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Fusion.StartGameResult>:SetResult (Fusion.StartGameResult)
+Fusion.NetworkRunner/<StartGameModeCloud>d__316:MoveNext () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Matchmaking.cs:897)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation/<>c:<.cctor>b__7_0 (object)
+UnityEngine.UnitySynchronizationContext/WorkRequest:Invoke () (at C:/buildslave/unity/build/Runtime/Export/Scripting/UnitySynchronizationContext.cs:153)
+UnityEngine.UnitySynchronizationContext:Exec () (at C:/buildslave/unity/build/Runtime/Export/Scripting/UnitySynchronizationContext.cs:83)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks () (at C:/buildslave/unity/build/Runtime/Export/Scripting/UnitySynchronizationContext.cs:107)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+<color=#144078>[Fusion]</color> OnConnectRequest: RemoteAddress: [NetAddress: ActorId: -1]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnConnectRequest (Fusion.NetworkRunner,Fusion.NetworkRunnerCallbackArgs/ConnectRequest,byte[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:48)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnConnectionRequest (Fusion.Sockets.NetAddress,byte[]) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:797)
+Fusion.Simulation:Fusion.Sockets.INetPeerGroupCallbacks.OnConnectionRequest (Fusion.Sockets.NetAddress,byte[]) (at Fusion/Fusion.Runtime/Simulation/Simulation.INetPeerGroupCallbacks.cs:238)
+Fusion.Sockets.NetPeerGroup:HandlePacketUnconnected (Fusion.Sockets.NetPeerGroup*,Fusion.Sockets.INetPeerGroupCallbacks,Fusion.Sockets.NetBitBuffer*) (at Fusion/Fusion.Sockets/NetPeerGroup.cs:556)
+Fusion.Sockets.NetPeerGroup:Receive (Fusion.Sockets.NetPeerGroup*,Fusion.Sockets.INetPeerGroupCallbacks) (at Fusion/Fusion.Sockets/NetPeerGroup.cs:537)
+Fusion.Sockets.NetPeerGroup:Update (Fusion.Sockets.NetPeerGroup*,Fusion.Sockets.INetPeerGroupCallbacks) (at Fusion/Fusion.Sockets/NetPeerGroup.cs:127)
+Fusion.Simulation:NetworkRecv () (at Fusion/Fusion.Runtime/Simulation/Simulation.INetPeerGroupCallbacks.cs:74)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:968)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+<color=#144078>[Fusion]</color> OnPlayerJoined: player: [Player:0]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnPlayerJoined (Fusion.NetworkRunner,Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:56)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.PlayerJoined (Fusion.PlayerRef) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:774)
+Fusion.Simulation/Server:InvokePlayerJoined (Fusion.PlayerRef) (at Fusion/Fusion.Runtime/Simulation/Simulation.Server.cs:172)
+Fusion.Simulation/Server:BeforeTick () (at Fusion/Fusion.Runtime/Simulation/Simulation.Server.cs:206)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1293)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+<color=#144078>[Fusion]</color> Spawn for Player: [Player:0]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:Info (object) (at Fusion/Fusion.Common/Log.T4.cs:137)
+FusionStagingServerController:OnPlayerJoined (Fusion.NetworkRunner,Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:172)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.PlayerJoined (Fusion.PlayerRef) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:774)
+Fusion.Simulation/Server:InvokePlayerJoined (Fusion.PlayerRef) (at Fusion/Fusion.Runtime/Simulation/Simulation.Server.cs:172)
+Fusion.Simulation/Server:BeforeTick () (at Fusion/Fusion.Runtime/Simulation/Simulation.Server.cs:206)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1293)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 137)
+
+Player List:
+Player ([Player:0]): ......
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionStagingServerController:PrintPlayerList () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:308)
+FusionStagingServerController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:150)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs Line: 308)
+
+Server Properties:
+ ServerIdleStatus: [SessionProperty: 1, Type=System.Int32]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionStagingServerController:PrintServerProperties () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:315)
+FusionStagingServerController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:151)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs Line: 315)
+
+<color=#144078>[Fusion]</color> Server Properties Set
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+FusionStagingServerController:SetGameProperties (string,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:287)
+FusionStagingClientController:RPC_SetGameProperties (string,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingClientController.cs:63)
+FusionStagingClientController:RPC_SetGameProperties@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+Player List:
+Player ([Player:0]): QuickstartName
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionStagingServerController:PrintPlayerList () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:308)
+FusionStagingServerController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:150)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs Line: 308)
+
+Server Properties:
+ ServerIdleStatus: [SessionProperty: 1, Type=System.Int32]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionStagingServerController:PrintServerProperties () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:315)
+FusionStagingServerController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:151)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs Line: 315)
+
+(server) their name is QuickstartName
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionStagingServerController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:142)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs Line: 142)
+
+<color=#144078>[Fusion]</color> OnSceneLoadStart: CurrentScene: [Scene:7]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnSceneLoadStart (Fusion.NetworkRunner) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:79)
+Fusion.NetworkRunner:InvokeSceneLoadStart () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Scenes.cs:109)
+Fusion.NetworkSceneManagerBase/<SwitchSceneWrapper>d__28:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:237)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator) (at C:/buildslave/unity/build/Runtime/Export/Scripting/MonoBehaviour.bindings.cs:91)
+Fusion.NetworkSceneManagerBase:LateUpdate () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:79)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Polytope Studio/PT_Rock_Shader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Polytope Studio/PT_Rock_Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Polytope Studio/PT_Rock_Shader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Terrain/Lit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Polytope Studio/PT_Vegetation_Foliage_Shader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Polytope Studio/PT_Vegetation_Foliage_Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Polytope Studio/PT_Vegetation_Foliage_Shader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/BillboardWavingDoublePass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Polytope Studio/PT_Vegetation_Opaque_Shader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Polytope Studio/PT_Vegetation_Opaque_Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Polytope Studio/PT_Vegetation_Opaque_Shader' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/WavingDoublePass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/Vertexlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+The tree PT_Fruit_Tree_01_dead_cut must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+The tree PT_Fruit_Tree_01_green_cut must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+There is no texture data available to upload.
+UnloadTime: 2.498600 ms
+Unloading 29 unused Assets / (0.7 KB). Loaded Objects now: 4953.
+Memory consumption went from 72.4 MB to 72.4 MB.
+Total: 19.485600 ms (FindLiveObjects: 0.249300 ms CreateObjectMapping: 0.126200 ms MarkObjects: 19.071000 ms  DeleteObjects: 0.038700 ms)
+
+<color=#144078>[Fusion]</color> OnSceneLoadDone: CurrentScene: [Scene:7]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnSceneLoadDone (Fusion.NetworkRunner) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:75)
+Fusion.NetworkRunner:InvokeSceneLoadDone () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Scenes.cs:124)
+Fusion.NetworkSceneManagerBase/<SwitchSceneWrapper>d__28:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:266)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+No grid to destroy
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GridController:DestroyGrid () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scripts/Features/GridController.cs:127)
+GridController:GenerateFullGrid () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scripts/Features/GridController.cs:49)
+GridGameplayController:Spawned () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/GridGameplayController.cs:54)
+Fusion.NetworkRunner:InvokeSpawnedCallback (Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3074)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2666)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+FusionGameplayServerController:OnSceneLoadDone (Fusion.NetworkRunner) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayServerController.cs:31)
+Fusion.NetworkRunner:InvokeSceneLoadDone () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Scenes.cs:124)
+Fusion.NetworkSceneManagerBase/<SwitchSceneWrapper>d__28:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:266)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scripts/Features/GridController.cs Line: 127)
+
+(server) initializing player controller with name (QuickstartName)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MainGameplayController:PlayerControllerInitialize_BeforeSpawn (Fusion.NetworkRunner,Fusion.NetworkObject,Fusion.PlayerRef,System.Collections.Generic.Dictionary`2<Fusion.PlayerRef, PlayerInfo>,GridPosition) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:848)
+MainGameplayController/<>c__DisplayClass77_0:<SpawnPlayer>b__0 (Fusion.NetworkRunner,Fusion.NetworkObject) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:827)
+Fusion.NetworkRunner:InvokeBeforeSpawnedCallbacks (Fusion.NetworkObject,Fusion.NetworkRunner/AttachOptions,Fusion.NetworkRunner/OnBeforeSpawned) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3052)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2659)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+MainGameplayController:SpawnPlayer (Fusion.PlayerRef,System.Collections.Generic.Dictionary`2<Fusion.PlayerRef, PlayerInfo>,GridPosition) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:822)
+MainGameplayController:Spawned () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:146)
+Fusion.NetworkRunner:InvokeSpawnedCallback (Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3074)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2666)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+FusionGameplayServerController:OnSceneLoadDone (Fusion.NetworkRunner) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayServerController.cs:31)
+Fusion.NetworkRunner:InvokeSceneLoadDone () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Scenes.cs:124)
+Fusion.NetworkSceneManagerBase/<SwitchSceneWrapper>d__28:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:266)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs Line: 848)
+
+It is now [Player:0]'s turn (you are [Player:None])
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MainGameplayController:OnTurnChange (Fusion.Changed`1<MainGameplayController>) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:1082)
+Fusion.NetworkBehaviourCallbacks`1/<>c__DisplayClass0_0<MainGameplayController>:<RegisterCallback>b__0 (Fusion.NetworkBehaviour,int*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:10)
+Fusion.NetworkBehaviourCallbacks:InvokeCallback (int,Fusion.NetworkBehaviour,int,int*,ulong*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:49)
+Fusion.NetworkBehaviourCallbacks:Invoke (int,Fusion.NetworkBehaviour,int,int*,ulong*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:93)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnAfterSimulation () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:172)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1014)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs Line: 1082)
+
+Searching for [Id:5]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GameplayCanvasController:InstantiatePlayerCards () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/UI/GameplayCanvasController.cs:212)
+GameplayCanvasController:Update () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/UI/GameplayCanvasController.cs:63)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/UI/GameplayCanvasController.cs Line: 212)
+
+Initializing card with information: QuickstartName | [Player:0]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PlayerCardInterfaceController:InitializePlayerCard (GridPosition,FusionGameplayPlayerController) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/UI/PlayerCardInterfaceController.cs:56)
+GameplayCanvasController:InstantiatePlayerCards () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/UI/GameplayCanvasController.cs:219)
+GameplayCanvasController:Update () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/UI/GameplayCanvasController.cs:63)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/UI/PlayerCardInterfaceController.cs Line: 56)
+
+Current Turn: [Player:0], Current Turn Cycle: 1
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+MainGameplayController:RPC_EndTurn (Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:683)
+MainGameplayController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:179)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs Line: 683)
+
+1's new hand: 10 | 11 | 501 | 10001 | 10012 | 0 | 0 | 
+At Indices: 0 | 1 | 2 | 3 | 4 | -1 | -1 | 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionGameplayPlayerController:SyncLocalHand () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1341)
+FusionGameplayPlayerController:OnServerHandChangeCallback (Fusion.Changed`1<FusionGameplayPlayerController>) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1304)
+Fusion.NetworkBehaviourCallbacks`1/<>c__DisplayClass0_0<FusionGameplayPlayerController>:<RegisterCallback>b__0 (Fusion.NetworkBehaviour,int*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:10)
+Fusion.NetworkBehaviourCallbacks:InvokeCallback (int,Fusion.NetworkBehaviour,int,int*,ulong*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:49)
+Fusion.NetworkBehaviourCallbacks:Invoke (int,Fusion.NetworkBehaviour,int,int*,ulong*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:95)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnAfterSimulation () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:172)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1014)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs Line: 1341)
+
+Applying server-synched-buff on index: 0 with buff id 100000
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OllieCharacterController:ApplyBuff (int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs:333)
+MainGameplayController:CharacterControllerInitialize_BeforeSpawn (Fusion.NetworkRunner,Fusion.NetworkObject,GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:950)
+MainGameplayController/<>c__DisplayClass79_0:<SpawnCharacter>b__0 (Fusion.NetworkRunner,Fusion.NetworkObject) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:879)
+Fusion.NetworkRunner:InvokeBeforeSpawnedCallbacks (Fusion.NetworkObject,Fusion.NetworkRunner/AttachOptions,Fusion.NetworkRunner/OnBeforeSpawned) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3052)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2659)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+MainGameplayController:SpawnCharacter (GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:874)
+Card_MagicianBasic:Invoke (Fusion.PlayerRef,GridPosition[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Cards/Card_MagicianBasic.cs:42)
+FusionGameplayPlayerController:PlayCard (Fusion.PlayerRef,GridPosition[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1243)
+MainGameplayController:RPC_PlayCard (Fusion.PlayerRef,GridPositionFusion[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:485)
+MainGameplayController:RPC_PlayCard@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs Line: 333)
+
+Applying server-buff on buff index: 0
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OllieCharacterController:ApplyBuff (int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs:337)
+MainGameplayController:CharacterControllerInitialize_BeforeSpawn (Fusion.NetworkRunner,Fusion.NetworkObject,GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:950)
+MainGameplayController/<>c__DisplayClass79_0:<SpawnCharacter>b__0 (Fusion.NetworkRunner,Fusion.NetworkObject) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:879)
+Fusion.NetworkRunner:InvokeBeforeSpawnedCallbacks (Fusion.NetworkObject,Fusion.NetworkRunner/AttachOptions,Fusion.NetworkRunner/OnBeforeSpawned) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3052)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2659)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+MainGameplayController:SpawnCharacter (GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:874)
+Card_MagicianBasic:Invoke (Fusion.PlayerRef,GridPosition[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Cards/Card_MagicianBasic.cs:42)
+FusionGameplayPlayerController:PlayCard (Fusion.PlayerRef,GridPosition[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1243)
+MainGameplayController:RPC_PlayCard (Fusion.PlayerRef,GridPositionFusion[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:485)
+MainGameplayController:RPC_PlayCard@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs Line: 337)
+
+Applying server-synched-buff on index: 1 with buff id 100001
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OllieCharacterController:ApplyBuff (int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs:333)
+MainGameplayController:CharacterControllerInitialize_BeforeSpawn (Fusion.NetworkRunner,Fusion.NetworkObject,GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:952)
+MainGameplayController/<>c__DisplayClass79_0:<SpawnCharacter>b__0 (Fusion.NetworkRunner,Fusion.NetworkObject) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:879)
+Fusion.NetworkRunner:InvokeBeforeSpawnedCallbacks (Fusion.NetworkObject,Fusion.NetworkRunner/AttachOptions,Fusion.NetworkRunner/OnBeforeSpawned) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3052)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2659)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+MainGameplayController:SpawnCharacter (GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:874)
+Card_MagicianBasic:Invoke (Fusion.PlayerRef,GridPosition[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Cards/Card_MagicianBasic.cs:42)
+FusionGameplayPlayerController:PlayCard (Fusion.PlayerRef,GridPosition[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1243)
+MainGameplayController:RPC_PlayCard (Fusion.PlayerRef,GridPositionFusion[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:485)
+MainGameplayController:RPC_PlayCard@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs Line: 333)
+
+Applying server-buff on buff index: 1
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OllieCharacterController:ApplyBuff (int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs:337)
+MainGameplayController:CharacterControllerInitialize_BeforeSpawn (Fusion.NetworkRunner,Fusion.NetworkObject,GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:952)
+MainGameplayController/<>c__DisplayClass79_0:<SpawnCharacter>b__0 (Fusion.NetworkRunner,Fusion.NetworkObject) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:879)
+Fusion.NetworkRunner:InvokeBeforeSpawnedCallbacks (Fusion.NetworkObject,Fusion.NetworkRunner/AttachOptions,Fusion.NetworkRunner/OnBeforeSpawned) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3052)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2659)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+MainGameplayController:SpawnCharacter (GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:874)
+Card_MagicianBasic:Invoke (Fusion.PlayerRef,GridPosition[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Cards/Card_MagicianBasic.cs:42)
+FusionGameplayPlayerController:PlayCard (Fusion.PlayerRef,GridPosition[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1243)
+MainGameplayController:RPC_PlayCard (Fusion.PlayerRef,GridPositionFusion[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:485)
+MainGameplayController:RPC_PlayCard@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs Line: 337)
+
+Applying server-synched-buff on index: 2 with buff id 100002
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OllieCharacterController:ApplyBuff (int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs:333)
+MainGameplayController:CharacterControllerInitialize_BeforeSpawn (Fusion.NetworkRunner,Fusion.NetworkObject,GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:954)
+MainGameplayController/<>c__DisplayClass79_0:<SpawnCharacter>b__0 (Fusion.NetworkRunner,Fusion.NetworkObject) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:879)
+Fusion.NetworkRunner:InvokeBeforeSpawnedCallbacks (Fusion.NetworkObject,Fusion.NetworkRunner/AttachOptions,Fusion.NetworkRunner/OnBeforeSpawned) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3052)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2659)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+MainGameplayController:SpawnCharacter (GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:874)
+Card_MagicianBasic:Invoke (Fusion.PlayerRef,GridPosition[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Cards/Card_MagicianBasic.cs:42)
+FusionGameplayPlayerController:PlayCard (Fusion.PlayerRef,GridPosition[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1243)
+MainGameplayController:RPC_PlayCard (Fusion.PlayerRef,GridPositionFusion[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:485)
+MainGameplayController:RPC_PlayCard@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs Line: 333)
+
+Applying server-buff on buff index: 2
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OllieCharacterController:ApplyBuff (int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs:337)
+MainGameplayController:CharacterControllerInitialize_BeforeSpawn (Fusion.NetworkRunner,Fusion.NetworkObject,GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:954)
+MainGameplayController/<>c__DisplayClass79_0:<SpawnCharacter>b__0 (Fusion.NetworkRunner,Fusion.NetworkObject) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:879)
+Fusion.NetworkRunner:InvokeBeforeSpawnedCallbacks (Fusion.NetworkObject,Fusion.NetworkRunner/AttachOptions,Fusion.NetworkRunner/OnBeforeSpawned) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3052)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2659)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+MainGameplayController:SpawnCharacter (GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:874)
+Card_MagicianBasic:Invoke (Fusion.PlayerRef,GridPosition[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Cards/Card_MagicianBasic.cs:42)
+FusionGameplayPlayerController:PlayCard (Fusion.PlayerRef,GridPosition[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1243)
+MainGameplayController:RPC_PlayCard (Fusion.PlayerRef,GridPositionFusion[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:485)
+MainGameplayController:RPC_PlayCard@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs Line: 337)
+
+LOADED ANIMATIONS COUNT: 4
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OllieCharacterController:SetupAnimations () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs:591)
+OllieCharacterController:Spawned () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs:177)
+Fusion.NetworkRunner:InvokeSpawnedCallback (Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:3074)
+Fusion.NetworkRunner:SpawnInternal (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,object,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:2666)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkPrefabId,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool,Fusion.NetworkObject) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1967)
+Fusion.NetworkRunner:Spawn (Fusion.NetworkObject,System.Nullable`1<UnityEngine.Vector3>,System.Nullable`1<UnityEngine.Quaternion>,System.Nullable`1<Fusion.PlayerRef>,Fusion.NetworkRunner/OnBeforeSpawned,System.Nullable`1<Fusion.NetworkObjectPredictionKey>,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1842)
+MainGameplayController:SpawnCharacter (GridPosition,Fusion.PlayerRef,int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:874)
+Card_MagicianBasic:Invoke (Fusion.PlayerRef,GridPosition[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Cards/Card_MagicianBasic.cs:42)
+FusionGameplayPlayerController:PlayCard (Fusion.PlayerRef,GridPosition[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1243)
+MainGameplayController:RPC_PlayCard (Fusion.PlayerRef,GridPositionFusion[],int) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:485)
+MainGameplayController:RPC_PlayCard@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/OllieCharacterController.cs Line: 591)
+
+1's new hand: 0 | 11 | 501 | 10001 | 10012 | 0 | 0 | 
+At Indices: -1 | 0 | 1 | 2 | 3 | -1 | -1 | 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionGameplayPlayerController:SyncLocalHand () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1341)
+FusionGameplayPlayerController:OnServerHandChangeCallback (Fusion.Changed`1<FusionGameplayPlayerController>) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1304)
+Fusion.NetworkBehaviourCallbacks`1/<>c__DisplayClass0_0<FusionGameplayPlayerController>:<RegisterCallback>b__0 (Fusion.NetworkBehaviour,int*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:10)
+Fusion.NetworkBehaviourCallbacks:InvokeCallback (int,Fusion.NetworkBehaviour,int,int*,ulong*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:49)
+Fusion.NetworkBehaviourCallbacks:Invoke (int,Fusion.NetworkBehaviour,int,int*,ulong*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:95)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnAfterSimulation () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:172)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1014)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs Line: 1341)
+
+I count 1 number of units
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MainGameplayController:VictoryConditionCheck (Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:1108)
+MainGameplayController:RPC_EndTurn (Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:628)
+MainGameplayController:RPC_EndTurn@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs Line: 1108)
+
+Current Turn: [Player:0], Current Turn Cycle: 2
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+MainGameplayController:RPC_EndTurn (Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:683)
+MainGameplayController:RPC_EndTurn@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs Line: 683)
+
+1's new hand: 10002 | 11 | 501 | 10001 | 10012 | 0 | 0 | 
+At Indices: 4 | 0 | 1 | 2 | 3 | -1 | -1 | 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionGameplayPlayerController:SyncLocalHand () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1341)
+FusionGameplayPlayerController:OnServerHandChangeCallback (Fusion.Changed`1<FusionGameplayPlayerController>) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs:1304)
+Fusion.NetworkBehaviourCallbacks`1/<>c__DisplayClass0_0<FusionGameplayPlayerController>:<RegisterCallback>b__0 (Fusion.NetworkBehaviour,int*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:10)
+Fusion.NetworkBehaviourCallbacks:InvokeCallback (int,Fusion.NetworkBehaviour,int,int*,ulong*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:49)
+Fusion.NetworkBehaviourCallbacks:Invoke (int,Fusion.NetworkBehaviour,int,int*,ulong*) (at Fusion/Fusion.Runtime/Components/NetworkBehaviourCallbacks.cs:95)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnAfterSimulation () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:172)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1014)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Networking/FusionGameplayPlayerController.cs Line: 1341)
+
+Movement: X 4 | Y 3
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Walk_MovementActionController:IOllieAction.Invoke (GridPosition[]) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Actions/Walk_MovementActionController.cs:109)
+MainGameplayController:RPC_MoveUnit (Fusion.NetworkObject,GridPositionFusion[],Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:319)
+MainGameplayController:RPC_MoveUnit@Invoker (Fusion.NetworkBehaviour,Fusion.SimulationMessage*)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnMessage (Fusion.SimulationMessage*) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:584)
+Fusion.Simulation:DeliverMessages (int) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1467)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1298)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Actions/Walk_MovementActionController.cs Line: 109)
+
+Starting Move Action, there are 4 move actions in this move call
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Walk_MovementActionController/<Move>d__29:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Actions/Walk_MovementActionController.cs:114)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator) (at C:/buildslave/unity/build/Runtime/Export/Scripting/MonoBehaviour.bindings.cs:91)
+MainGameplayController/<RunAnimation>d__48:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:90)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator) (at C:/buildslave/unity/build/Runtime/Export/Scripting/MonoBehaviour.bindings.cs:91)
+MainGameplayController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Controllers/MainGameplayController.cs:194)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Gameplay/Scripts/Actions/Walk_MovementActionController.cs Line: 114)
+
+<color=#144078>[Fusion]</color> OnPlayerLeft: player: [Player:0]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnPlayerLeft (Fusion.NetworkRunner,Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:60)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.PlayerLeft (Fusion.PlayerRef) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:786)
+Fusion.Simulation/Server:BeforeTick () (at Fusion/Fusion.Runtime/Simulation/Simulation.Server.cs:217)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1293)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+<color=#144078>[Fusion]</color> Despawn for Player: [Player:0]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:Info (object) (at Fusion/Fusion.Common/Log.T4.cs:137)
+FusionStagingServerController:OnPlayerLeft (Fusion.NetworkRunner,Fusion.PlayerRef) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:184)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.PlayerLeft (Fusion.PlayerRef) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:786)
+Fusion.Simulation/Server:BeforeTick () (at Fusion/Fusion.Runtime/Simulation/Simulation.Server.cs:217)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1293)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 137)
+
+Player List:
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionStagingServerController:PrintPlayerList () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:308)
+FusionStagingServerController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:150)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs Line: 308)
+
+Server Properties:
+ ServerIdleStatus: [SessionProperty: 1, Type=System.Int32]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FusionStagingServerController:PrintServerProperties () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:315)
+FusionStagingServerController:FixedUpdateNetwork () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs:151)
+Fusion.SimulationBehaviourUpdater:InvokeFixedUpdateNetwork (Fusion.SimulationStages,Fusion.SimulationModes) (at Fusion/Fusion.Runtime/Components/SimulationBehaviourUpdater.cs:165)
+Fusion.NetworkRunner:Fusion.Simulation.ICallbacks.OnTick () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.SimulationCallbacks.cs:424)
+Fusion.Simulation:InvokeTick (Fusion.SimulationStages,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1303)
+Fusion.Simulation:StepSimulation (Fusion.SimulationStages,bool,bool,bool) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:490)
+Fusion.Simulation:Update (double) (at Fusion/Fusion.Runtime/Simulation/Simulation.cs:1000)
+Fusion.NetworkRunner:UpdateInternal (double) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1365)
+Fusion.NetworkRunner:InvokeUpdate (single) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Instances.cs:57)
+Fusion.NetworkRunnerUpdater:InvokeUpdate () (at Fusion/Fusion.Runtime/Runner/NetworkRunnerUpdater.cs:97)
+
+(Filename: C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/GameStaging/Scripts/FusionStagingServerController.cs Line: 315)
+
+<color=#144078>[Fusion]</color> OnSceneLoadStart: CurrentScene: [Scene:6]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnSceneLoadStart (Fusion.NetworkRunner) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:79)
+Fusion.NetworkRunner:InvokeSceneLoadStart () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Scenes.cs:109)
+Fusion.NetworkSceneManagerBase/<SwitchSceneWrapper>d__28:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:237)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator) (at C:/buildslave/unity/build/Runtime/Export/Scripting/MonoBehaviour.bindings.cs:91)
+Fusion.NetworkSceneManagerBase:LateUpdate () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:79)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+There is no texture data available to upload.
+UnloadTime: 4.302600 ms
+Unloading 162 unused Assets / (91.4 KB). Loaded Objects now: 3123.
+Memory consumption went from 77.9 MB to 77.8 MB.
+Total: 19.948300 ms (FindLiveObjects: 0.170300 ms CreateObjectMapping: 0.148900 ms MarkObjects: 19.433600 ms  DeleteObjects: 0.194900 ms)
+
+<color=#144078>[Fusion]</color> OnSceneLoadDone: CurrentScene: [Scene:6]
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnSceneLoadDone (Fusion.NetworkRunner) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:75)
+Fusion.NetworkRunner:InvokeSceneLoadDone () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.Scenes.cs:124)
+Fusion.NetworkSceneManagerBase/<SwitchSceneWrapper>d__28:MoveNext () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/Prototyping/NetworkSceneManagerBase.cs:266)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at C:/buildslave/unity/build/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+<color=#144078>[Fusion]</color> OnShutdown: shutdownReason: Ok
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnShutdown (Fusion.NetworkRunner,Fusion.ShutdownReason) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:64)
+Fusion.NetworkRunner/<>c__DisplayClass119_0:<Shutdown>g__InvokeOnShutdownCallbacks|1 () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:665)
+Fusion.NetworkRunner:Shutdown (bool,Fusion.ShutdownReason,bool) (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:576)
+Fusion.NetworkRunner:OnApplicationQuit () (at Fusion/Fusion.Runtime/Runner/NetworkRunner.cs:1261)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+2023-10-03 13:45:20.918 Info: Realm: Force closing all native instances: Application is exiting
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityUtils.UnityLogger:LogImpl (Realms.Logging.LogLevel,string)
+Realms.Logging.Logger:Log (Realms.Logging.LogLevel,string)
+Realms.Logging.Logger:LogDefault (Realms.Logging.LogLevel,string)
+Realms.NativeCommon:CleanupNativeResources (string)
+UnityUtils.Initializer/<>c:<Initialize>b__1_0 ()
+UnityEngine.Application:Internal_ApplicationQuit () (at C:/buildslave/unity/build/Runtime/Export/Application/Application.cs:301)
+
+(Filename: C:/buildslave/unity/build/Runtime/Export/Application/Application.cs Line: 301)
+
+2023-10-03 13:45:20.935 Info: Realm: Closed all native instances in 1 ms.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityUtils.UnityLogger:LogImpl (Realms.Logging.LogLevel,string)
+Realms.Logging.Logger:Log (Realms.Logging.LogLevel,string)
+Realms.Logging.Logger:LogDefault (Realms.Logging.LogLevel,string)
+Realms.NativeCommon:CleanupNativeResources (string)
+UnityUtils.Initializer/<>c:<Initialize>b__1_0 ()
+UnityEngine.Application:Internal_ApplicationQuit () (at C:/buildslave/unity/build/Runtime/Export/Application/Application.cs:301)
+
+(Filename: C:/buildslave/unity/build/Runtime/Export/Application/Application.cs Line: 301)
+
+Setting up 6 worker threads for Enlighten.
+<color=#144078>[Fusion]</color> OnDestroy: Fusion Server Network Runner(Clone)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at C:/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+Fusion.FusionUnityLogger:Log<Fusion.Log/DefaultContext> (Fusion.LogType,string,Fusion.Log/DefaultContext&,string) (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Photon/Fusion/Scripts/FusionUnityLogger.cs:133)
+Fusion.Log:InfoInternal (object,string) (at Fusion/Fusion.Common/Log.T4.cs:161)
+Fusion.Log:Debug (object) (at Fusion/Fusion.Common/Log.T4.cs:26)
+ServerEventsInfo:OnDestroy () (at C:/Program Files (x86)/UnityProjects/OllieVerseAlpha/Assets/Scenes/Fusion/Scripts/Dedicated Server/ServerEventsInfo.cs:36)
+
+(Filename: Fusion/Fusion.Common/Log.T4.cs Line: 161)
+
+PlayerConnection::CleanupMemory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 23001 frames, [8.0 KB-16.0 KB]: 4 frames, [16.0 KB-32.0 KB]: 116 frames, [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 2 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_AUDIO_FMOD mixer thread]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_AUDIO_FMOD stream thread]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 179.8 KB
+      Overflow Count 16
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 66 B
+      Overflow Count 0
+    [ALLOC_TEMP_Profiler.Dispatcher]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_ReadCacheIndex]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 497 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 6
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 25.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 392 B
+      Overflow Count 0
+[ALLOC_MEMORYPROFILER]
+  Peak usage frame count: [128.0 KB-256.0 KB]: 561 frames, [256.0 KB-0.5 MB]: 22567 frames
+  Requested Block Size 1.0 MB
+  Peak Block count 1
+  Peak Allocated memory 300.2 KB
+  Peak Large allocation bytes 0 B
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 835
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.1 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 90 frames, [32.0 MB-64.0 MB]: 23037 frames, [64.0 MB-128.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 4
+      Peak Allocated memory 64.0 MB
+      Peak Large allocation bytes 16.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 90 frames, [2.0 MB-4.0 MB]: 23038 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 3.0 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.1 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 23128 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 112.3 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 22845 frames, [1.0 MB-2.0 MB]: 283 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.4 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 31
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.1 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 611 frames, [2.0 MB-4.0 MB]: 22517 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 2
+      Peak Allocated memory 3.4 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 22844 frames, [1.0 MB-2.0 MB]: 282 frames, [2.0 MB-4.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 3
+      Peak Allocated memory 12.7 MB
+      Peak Large allocation bytes 2.2 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.1 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 612 frames, [32.0 KB-64.0 KB]: 22515 frames, [64.0 KB-128.0 KB]: 1 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 86.2 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 23128 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 6.9 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_PROFILER]
+  Peak usage frame count: [32.0 KB-64.0 KB]: 22933 frames, [64.0 KB-128.0 KB]: 195 frames
+  Requested Block Size 16.0 MB
+  Peak Block count 1
+  Peak Allocated memory 64.6 KB
+  Peak Large allocation bytes 0 B
+    [ALLOC_PROFILER_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.2 KB
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1696340721036,"processId":31136,"allocatedMemory":14611759,"memoryLabels":[{"Default":9445},{"Permanent":10208},{"NewDelete":11808},{"Thread":4229132},{"Manager":14765},{"VertexData":12},{"Geometry":560},{"Texture":16},{"Shader":72656},{"Material":24},{"GfxDevice":8445168},{"GfxThread":448},{"Animation":240},{"Audio":3928},{"Physics":344},{"Serialization":288},{"Input":14208},{"JobScheduler":200},{"Mono":40},{"ScriptingNativeRuntime":216},{"BaseObject":1617364},{"Resource":688},{"Renderer":2080},{"Transform":16},{"File":840},{"WebCam":56},{"Culling":40},{"Terrain":953},{"Wind":24},{"STL":48},{"String":3626},{"DynamicArray":30356},{"HashMap":8448},{"Utility":3857},{"PoolAlloc":1280},{"TypeTree":1792},{"ScriptManager":80},{"RuntimeInitializeOnLoadManager":80},{"SpriteAtlas":128},{"GI":3688},{"Unet":16},{"Director":7776},{"WebRequest":688},{"VR":45521},{"SceneManager":424},{"Video":32},{"LazyScriptCache":40},{"NativeArray":12},{"Camera":25},{"Secure":289},{"SerializationCache":624},{"APIUpdating":5872},{"Subsystems":392},{"VirtualTexturing":57888},{"TLS":2970},{"AssetReference":40}]}
